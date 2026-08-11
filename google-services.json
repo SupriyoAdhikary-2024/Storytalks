@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073024492680",
+    "project_id": "storytalks-d9a3e",
+    "storage_bucket": "storytalks-d9a3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073024492680:android:83e65f61c9c02ee7acab3d",
+        "android_client_info": {
+          "package_name": "com.Storytalks.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHgTkBqlC25qd2LGIIwOVXwGdjNyf9FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073024492680:android:b248f351a4b29fa0acab3d",
+        "android_client_info": {
+          "package_name": "com.supriyo420.Storytalks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHgTkBqlC25qd2LGIIwOVXwGdjNyf9FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
